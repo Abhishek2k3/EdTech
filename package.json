@@ -45,11 +45,11 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/Abhishek2k3/EdTech"
   },
   "author": "Abhishek",
   "bugs": {
-    "url": "https://github.com/thepranaygupta/react-tailwind-css-starter-pack/issues"
+    "url": "https://github.com/Abhishek2k3/EdTech"
   },
   "scripts": {
     "start": ""react-scripts start"",
